@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+#opcoes.jumbotron{
+
+    padding-top: 20px;
+    height: 100px;
+    background-color: white;
+}
+#opcoes.jumbotron h1{
+
+    font-size: 20px;
+    padding-top: 20px;
+    height: 100px;
+    background-color: white;
+}
+
+.filmemeio{
+    margin-left: 0px;
+}
+
+.card-title a{
+    font-size: 16px;
+}
